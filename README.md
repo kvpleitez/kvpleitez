@@ -4,7 +4,7 @@ I'm an AI & Robotics student passionate about building real-world tech solutions
 
 Beyond the technical side, I love communicating technology in a simple and engaging way. Through my platform Crónicas Robóticas, I share my projects, learnings and experiences to inspire more people—especially women—to explore STEM 🚀
 
-####💻 Skills: 
+#### 💻 Skills: 
 Python / JavaScript / TypeScript / C# / C++ / TensorFlow / Keras / NumPy / OpenCV / R / Power BI / HTML / CSS / Tailwind CSS / Ionic / Arduino / Raspberry Pi / Cisco Networking / Data Analysis / Machine Learning / Automation
 
 - ⚡ Fun fact: as a kid, I used LEGO to build everything… except what the instructions said — that’s when I knew I’d be an engineer ✨
