@@ -9,7 +9,7 @@ Skills: Python / JavaScript / TypeScript / C# / C++ / TensorFlow / Keras / NumPy
 - ⚡ Fun fact: as a kid, I used LEGO to build everything… except what the instructions said — that’s when I knew I’d be an engineer ✨
 
 - MOST USED LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvpleitez&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvpleitez&layout=compact)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kvpleitez)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/karla-pleitez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cronicas.roboticas/)  
 
